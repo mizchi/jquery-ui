@@ -1,5 +1,5 @@
 {
-	"name": "jquery-ui",
+	"name": "@mizchi/jquery-ui",
 	"title": "jQuery UI",
 	"description": "A curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library.",
 	"version": "1.11.4",
